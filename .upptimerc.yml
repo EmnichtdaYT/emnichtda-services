@@ -5,10 +5,9 @@ repo: emnichtda-services # The name of this repository
 sites:
   - name: www.emnichtda.de
     url: https://www.emnichtda.de
-  - name: cloud.emnichtda.de
-    url: https://cloud.emnichtda.de
   - name: matrix.emnichtda.de
     url: https://matrix.emnichtda.de/_synapse/client
+    expectedStatusCodes: 404
   - name: ptero.emnichtda.de
     url: https://ptero.emnichtda.de
 
