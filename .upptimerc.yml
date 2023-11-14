@@ -5,11 +5,14 @@ repo: emnichtda-services # The name of this repository
 sites:
   - name: www.emnichtda.de
     url: https://www.emnichtda.de
+    maxResponseTime: 5000
   - name: matrix.emnichtda.de
     url: https://matrix.emnichtda.de/_synapse/client
     expectedStatusCodes: 404
+    maxResponseTime: 1000
   - name: ptero.emnichtda.de
-    url: https://ptero.emnichtda.de
+    url: https://ptero.emnichtda.de/api/client
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
