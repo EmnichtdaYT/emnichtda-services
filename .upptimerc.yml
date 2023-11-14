@@ -17,6 +17,7 @@ sites:
     url: https://ptero.emnichtda.de/api/client
     expectedStatusCodes:
       - 302
+      - 200
     maxResponseTime: 1000
 
 status-website:
