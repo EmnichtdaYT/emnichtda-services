@@ -8,7 +8,8 @@ sites:
     maxResponseTime: 5000
   - name: matrix.emnichtda.de
     url: https://matrix.emnichtda.de/_synapse/client
-    expectedStatusCodes: 404
+    expectedStatusCodes:
+      - 404
     maxResponseTime: 1000
   - name: ptero.emnichtda.de
     url: https://ptero.emnichtda.de/api/client
