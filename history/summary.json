@@ -4,18 +4,20 @@
     "url": "https://www.emnichtda.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.emnichtda.de.ico",
     "slug": "www-emnichtda-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 504,
-    "timeWeek": 542,
-    "timeMonth": 573,
-    "timeYear": 641,
-    "dailyMinutesDown": {}
+    "time": 682,
+    "timeDay": 1755,
+    "timeWeek": 850,
+    "timeMonth": 649,
+    "timeYear": 682,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "matrix.emnichtda.de",
