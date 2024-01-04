@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emnichtda.de.ico",
     "slug": "www-emnichtda-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 682,
-    "timeDay": 1397,
-    "timeWeek": 831,
-    "timeMonth": 650,
-    "timeYear": 682,
-    "dailyMinutesDown": {
-      "2024-01-03": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 683,
+    "timeDay": 1477,
+    "timeWeek": 857,
+    "timeMonth": 655,
+    "timeYear": 683,
+    "dailyMinutesDown": {}
   },
   {
     "name": "matrix.emnichtda.de",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 521,
-    "timeWeek": 546,
-    "timeMonth": 556,
-    "timeYear": 614,
+    "time": 618,
+    "timeDay": 806,
+    "timeWeek": 589,
+    "timeMonth": 567,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 637,
-    "timeWeek": 701,
-    "timeMonth": 705,
-    "timeYear": 809,
+    "time": 812,
+    "timeDay": 986,
+    "timeWeek": 743,
+    "timeMonth": 717,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 670,
-    "timeWeek": 700,
-    "timeMonth": 731,
-    "timeYear": 777,
+    "time": 782,
+    "timeDay": 1038,
+    "timeWeek": 752,
+    "timeMonth": 741,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   }
 ]
