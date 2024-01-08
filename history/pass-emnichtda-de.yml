@@ -1,7 +1,7 @@
 url: https://pass.emnichtda.de/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-08T05:16:26.190Z
+status: degraded
+code: 523
+responseTime: 3334
+lastUpdated: 2024-01-08T07:45:48.703Z
 startTime: 2023-11-15T16:54:50.927Z
 generator: Upptime <https://github.com/upptime/upptime>
