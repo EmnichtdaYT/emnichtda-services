@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emnichtda.de.ico",
     "slug": "www-emnichtda-de",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.84%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.84%",
     "time": 760,
     "timeDay": 1842,
     "timeWeek": 1245,
     "timeMonth": 820,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2024-01-08": 112
+      "2024-01-08": 124
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.emnichtda.de.ico",
     "slug": "matrix-emnichtda-de",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "89.42%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.79%",
+    "uptimeDay": "88.66%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.79%",
     "time": 613,
     "timeDay": 671,
     "timeWeek": 577,
     "timeMonth": 570,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2024-01-08": 152
+      "2024-01-08": 163
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://ptero.emnichtda.de/api/client",
     "icon": "https://icons.duckduckgo.com/ip3/ptero.emnichtda.de.ico",
     "slug": "ptero-emnichtda-de",
-    "status": "degraded",
-    "uptime": "99.81%",
-    "uptimeDay": "89.53%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.81%",
-    "time": 958,
-    "timeDay": 4101,
-    "timeWeek": 1849,
-    "timeMonth": 1032,
-    "timeYear": 958,
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "88.76%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.79%",
+    "time": 963,
+    "timeDay": 3401,
+    "timeWeek": 1794,
+    "timeMonth": 1039,
+    "timeYear": 963,
     "dailyMinutesDown": {
-      "2024-01-08": 151
+      "2024-01-08": 162
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://pass.emnichtda.de/",
     "icon": "https://icons.duckduckgo.com/ip3/pass.emnichtda.de.ico",
     "slug": "pass-emnichtda-de",
-    "status": "degraded",
-    "uptime": "99.81%",
-    "uptimeDay": "89.62%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.81%",
-    "time": 818,
-    "timeDay": 1992,
-    "timeWeek": 1047,
-    "timeMonth": 822,
-    "timeYear": 818,
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "88.86%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.79%",
+    "time": 826,
+    "timeDay": 1752,
+    "timeWeek": 1072,
+    "timeMonth": 836,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2024-01-08": 149
+      "2024-01-08": 160
     }
   }
 ]
