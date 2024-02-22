@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 761,
-    "timeDay": 559,
-    "timeWeek": 726,
-    "timeMonth": 754,
+    "timeDay": 780,
+    "timeWeek": 728,
+    "timeMonth": 760,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2024-01-08": 184
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 820,
-    "timeDay": 575,
-    "timeWeek": 693,
-    "timeMonth": 648,
+    "timeDay": 766,
+    "timeWeek": 692,
+    "timeMonth": 655,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2024-01-08": 223
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ptero.emnichtda.de.ico",
     "slug": "ptero-emnichtda-de",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 1068,
-    "timeDay": 700,
-    "timeWeek": 823,
-    "timeMonth": 873,
-    "timeYear": 1068,
+    "uptimeYear": "99.85%",
+    "time": 1067,
+    "timeDay": 966,
+    "timeWeek": 834,
+    "timeMonth": 884,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2024-01-08": 222
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
     "time": 967,
-    "timeDay": 630,
-    "timeWeek": 1195,
-    "timeMonth": 957,
+    "timeDay": 1010,
+    "timeWeek": 1194,
+    "timeMonth": 967,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2024-02-15": 16,
