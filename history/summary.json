@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 746,
-    "timeDay": 760,
-    "timeWeek": 645,
-    "timeMonth": 732,
-    "timeYear": 746,
+    "time": 745,
+    "timeDay": 645,
+    "timeWeek": 630,
+    "timeMonth": 726,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2024-01-08": 184
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 799,
-    "timeDay": 780,
-    "timeWeek": 664,
-    "timeMonth": 645,
-    "timeYear": 799,
+    "time": 796,
+    "timeDay": 655,
+    "timeWeek": 647,
+    "timeMonth": 641,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2024-01-08": 223
     }
@@ -50,36 +50,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1037,
-    "timeDay": 986,
-    "timeWeek": 832,
-    "timeMonth": 873,
-    "timeYear": 1037,
+    "time": 1035,
+    "timeDay": 841,
+    "timeWeek": 815,
+    "timeMonth": 868,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-01-08": 222
-    }
-  },
-  {
-    "name": "pass.emnichtda.de",
-    "url": "https://pass.emnichtda.de/",
-    "icon": "https://icons.duckduckgo.com/ip3/pass.emnichtda.de.ico",
-    "slug": "pass-emnichtda-de",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.83%",
-    "time": 958,
-    "timeDay": 1156,
-    "timeWeek": 990,
-    "timeMonth": 997,
-    "timeYear": 958,
-    "dailyMinutesDown": {
-      "2024-03-05": 5,
-      "2024-03-04": 24,
-      "2024-02-15": 16,
-      "2024-01-08": 221
     }
   }
 ]
