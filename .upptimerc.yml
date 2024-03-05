@@ -19,12 +19,6 @@ sites:
       - 302
       - 200
     maxResponseTime: 1500
-  - name: pass.emnichtda.de
-    url: https://pass.emnichtda.de/
-    expectedStatusCodes:
-      - 302
-      - 200
-    maxResponseTime: 1500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
