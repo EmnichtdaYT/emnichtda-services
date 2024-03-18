@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 732,
-    "timeDay": 569,
-    "timeWeek": 564,
-    "timeMonth": 611,
+    "timeDay": 768,
+    "timeWeek": 591,
+    "timeMonth": 616,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2024-01-08": 184
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.emnichtda.de.ico",
     "slug": "matrix-emnichtda-de",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 775,
-    "timeDay": 546,
-    "timeWeek": 520,
-    "timeMonth": 599,
-    "timeYear": 775,
+    "uptimeYear": "99.88%",
+    "time": 776,
+    "timeDay": 784,
+    "timeWeek": 553,
+    "timeMonth": 604,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2024-01-08": 223
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1009,
-    "timeDay": 601,
-    "timeWeek": 688,
-    "timeMonth": 756,
+    "timeDay": 893,
+    "timeWeek": 729,
+    "timeMonth": 771,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2024-01-08": 222
