@@ -1,7 +1,7 @@
 url: https://matrix.emnichtda.de/_synapse/client
-status: down
-code: 502
-responseTime: 601
-lastUpdated: 2024-04-23T15:21:34.725Z
+status: up
+code: 404
+responseTime: 679
+lastUpdated: 2024-04-23T15:43:27.119Z
 startTime: 2023-11-14T13:09:18.414Z
 generator: Upptime <https://github.com/upptime/upptime>
