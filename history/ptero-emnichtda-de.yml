@@ -1,7 +1,7 @@
 url: https://ptero.emnichtda.de/api/client
-status: degraded
-code: 523
-responseTime: 3234
-lastUpdated: 2024-06-24T08:34:30.312Z
+status: up
+code: 200
+responseTime: 1043
+lastUpdated: 2024-06-24T10:33:45.592Z
 startTime: 2023-11-14T13:09:22.517Z
 generator: Upptime <https://github.com/upptime/upptime>
