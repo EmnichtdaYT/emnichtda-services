@@ -1,7 +1,7 @@
 url: https://www.emnichtda.de
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2024-09-03T23:20:37.963Z
+status: degraded
+code: 523
+responseTime: 3310
+lastUpdated: 2024-09-04T11:48:16.227Z
 startTime: 2023-11-14T13:09:13.902Z
 generator: Upptime <https://github.com/upptime/upptime>
