@@ -19,6 +19,11 @@ sites:
       - 302
       - 200
     maxResponseTime: 1500
+  - name: cloud.emnichtda.de (IPv4 proxy and cloud)
+    url: https://cloud.emnichtda.de/login
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
