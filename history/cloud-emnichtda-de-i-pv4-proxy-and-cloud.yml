@@ -1,7 +1,7 @@
 url: https://cloud.emnichtda.de/login
-status: up
-code: 200
-responseTime: 622
-lastUpdated: 2024-10-04T23:20:07.332Z
+status: down
+code: 503
+responseTime: 699
+lastUpdated: 2024-10-05T22:24:15.232Z
 startTime: 2024-09-13T21:49:53.003Z
 generator: Upptime <https://github.com/upptime/upptime>
