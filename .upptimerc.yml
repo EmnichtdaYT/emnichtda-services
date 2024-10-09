@@ -13,12 +13,6 @@ sites:
     expectedStatusCodes:
       - 404
     maxResponseTime: 1500
-  - name: ptero.emnichtda.de
-    url: https://ptero.emnichtda.de/api/client
-    expectedStatusCodes:
-      - 302
-      - 200
-    maxResponseTime: 1500
   - name: cloud.emnichtda.de (IPv4 proxy and cloud)
     url: https://cloud.emnichtda.de/login
     expectedStatusCodes:
